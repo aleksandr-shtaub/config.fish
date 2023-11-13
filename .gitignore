@@ -1,0 +1,9 @@
+### Fish
+fishd.*
+fish_history
+fish_variables
+config.local.fish
+/functions
+/conf.d
+/themes
+/completions
