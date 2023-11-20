@@ -12,3 +12,4 @@ set -x MANPAGER "sh -c 'col -bx | bat -l man -p'"
 
 abbr --add gpg-keys gpg --list-secret-keys --keyid-format=long
 
+pyenv init - | source
