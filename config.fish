@@ -5,7 +5,7 @@ end
 
 #set -x XDG_CONFIG_HOME "~/.config"
 set -x HOMEBREW_BUNDLE_FILE_GLOBAL "~/.config/brew/Brewfile"
-set -x EDITOR nvim
+set -x EDITOR hx
 set -x GPG_TTY (tty)
 set -x MANPAGER "sh -c 'col -bx | bat -l man -p'"
 set -x PYENV_ROOT $HOME/.pyenv
